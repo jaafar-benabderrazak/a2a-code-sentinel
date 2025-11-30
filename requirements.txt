@@ -1,0 +1,14 @@
+# Core dependencies
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# LLM Client - Using Ollama (free, local, open-source)
+requests>=2.31.0
+
+# Optional: For testing and development
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Note: Ollama must be installed separately
+# Download from: https://ollama.ai/
+# After installing, pull the model: ollama pull qwen2.5-coder:7b
