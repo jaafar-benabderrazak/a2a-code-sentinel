@@ -387,17 +387,7 @@ except json.JSONDecodeError:
 
 - **Average review time**: 15-30 seconds per file (with Ollama)
 - **Cost per review**: 🆓 **$0.00 - Completely FREE!**
-- **Accuracy**: 80-90% compared to human reviewers
-- **False positive rate**: ~10-20%
 - **Privacy**: 100% - code never leaves your machine
-
-## Next Steps
-
-After mastering this project, advance to:
-
-- **A2A Mini 2**: Collaborative Agents (agents that negotiate and debate)
-- **A2A Mini 3**: Autonomous Networks (self-organizing agent systems)
-- **A2A Mini 4**: Competitive Agents (game theory and optimization)
 
 ## Resources
 
@@ -417,7 +407,3 @@ Before deploying to production:
 5. **Create fallbacks** for API failures
 6. **Add logging** for audit trails
 7. **Implement webhook integration** for CI/CD
-
-## License
-
-MIT License
