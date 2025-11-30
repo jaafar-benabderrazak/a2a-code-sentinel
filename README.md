@@ -1,7 +1,5 @@
 # A2A Mini Project 1: A2A Code Sentinel (Basic Communication)
 
-**Difficulty**: 🟢 Beginner  
-**Time to Complete**: 2-3 hours  
 **Prerequisites**: Basic Python, understanding of async/await
 
 ## What You'll Build
