@@ -1,4 +1,4 @@
-# A2A Mini Project 1: A2A Code Sentinel (Basic Communication)
+![Your paragraph text](https://github.com/user-attachments/assets/03745f86-f1bc-474d-94e2-9cc1d9297d3f)# A2A Mini Project 1: A2A Code Sentinel (Basic Communication)
 
 **Prerequisites**: Basic Python, understanding of async/await
 
@@ -10,6 +10,12 @@
 - **Performance Agent**: Identifies optimization opportunities (N+1 queries, inefficient algorithms)
 - **Best Practices Agent**: Reviews code quality (naming, error handling, DRY principle)
 - **Orchestrator**: Coordinates the multi-agent review pipeline
+
+Demo Video
+
+If you want to see A2A Code Sentinel in action, watch the short demo:
+![a2a-code-sentinel-demo.gif…]()
+
 
 ## Real-World Value
 
