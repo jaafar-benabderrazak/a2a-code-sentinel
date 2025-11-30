@@ -13,7 +13,7 @@
 
 ## Real-World Value
 
-- ✅ Reduces code review time by 60%
+- ✅ Reduces code review time 
 - ✅ Catches security vulnerabilities early
 - ✅ Ensures consistent code quality
 - ✅ Provides learning opportunities for developers
