@@ -1,4 +1,6 @@
-# A2A Code Sentinel 
+# Multi-Agent Code Review: Building a Local and Structured Code Sentinel
+By Jaafar Benabderrazak : [Portfolio]() - [LinkedIn]() - [Github](medium.com/r?url=https%3A%2F%2Fgithub.com%2Fjaafar-benabderrazak%2Fa2a-code-sentinel)
+
 ![1_dvVOGjQF2AsLN0EVSbB1xg](https://github.com/user-attachments/assets/50fe0996-dabe-47a5-a552-72aaaddfd6df)
 
 **Prerequisites**: Basic Python, understanding of async/await
