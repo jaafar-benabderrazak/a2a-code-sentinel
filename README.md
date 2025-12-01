@@ -1,4 +1,5 @@
 ![Your paragraph text](https://github.com/user-attachments/assets/03745f86-f1bc-474d-94e2-9cc1d9297d3f)# A2A Mini Project 1: A2A Code Sentinel (Basic Communication)
+![1_dvVOGjQF2AsLN0EVSbB1xg](https://github.com/user-attachments/assets/981aa5f5-1089-4c07-905f-c915bd635567)
 
 **Prerequisites**: Basic Python, understanding of async/await
 
