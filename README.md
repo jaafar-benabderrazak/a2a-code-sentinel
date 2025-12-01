@@ -1,4 +1,6 @@
 # A2A Code Sentinel 
+![1_dvVOGjQF2AsLN0EVSbB1xg](https://github.com/user-attachments/assets/50fe0996-dabe-47a5-a552-72aaaddfd6df)
+
 **Prerequisites**: Basic Python, understanding of async/await
 
 ## What You'll Build
@@ -13,8 +15,8 @@
 Demo Video
 
 If you want to see A2A Code Sentinel in action, watch the short demo:
-![a2a-code-sentinel-demo.gif…]()
 
+![a2a-code-sentinel-demo gif](https://github.com/user-attachments/assets/b9ab1652-e69b-4e61-bd49-8b53d0fd4fda)
 
 ## Real-World Value
 
